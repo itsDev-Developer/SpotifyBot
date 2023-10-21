@@ -26,4 +26,4 @@ Telegram bot to upload spotify playlist/artist/album/track music file to telegra
 * [SpotDL Team](https://github.com/spotDL) for their [SpotDL](https://github.com/spotDL/spotify-downloader)
 
 #### LICENSE
-- GPLv3
+- GPLv3.
